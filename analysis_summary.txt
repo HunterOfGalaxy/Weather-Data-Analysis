@@ -1,0 +1,25 @@
+To display information and descriptive statistics of the datasets.
+To display the data types, number of unique values, and to filter out null values.
+To identify unique wind speed values and calculate the number of unique wind speed values.
+To calculate the average, maximum, and minimum wind speed.
+To count the occurrences of specific wind speed values.
+To identify instances when wind speed was above 20.
+To display descriptive statistics and plot the distribution of wind gust data.
+To calculate the mean value of each column (excluding 'date').
+To display descriptive statistics and plot the distribution of precipitation data.
+To convert the 'date' column to datetime format, extract the year, and calculate the maximum and minimum temperature for each year.
+Visualize maximum and minimum temperatures of each year.
+To identify the year with the maximum and minimum temperature.
+To calculate and plot the rolling mean for average temperature.
+Visualize temperature trends over time using line plots.
+To create a box plot to show the monthly temperature distribution.
+To plot the distribution of average temperature data using a histogram.
+To visualize temperature clusters by month using scatter plots.
+Display the frequency distribution of temperature readings using a histogram.
+To plot the yearly mean temperature over time using line and marker plots.
+To create a scatter plot to show seasonal mean temperatures throughout the years.
+To animate scatter plots to show temperature changes over time.
+To calculate mean temperatures for different seasons (Winter, Summer, Monsoon, Autumn).
+To create a dataframe with seasonal data and visualize it using scatter plots with trendlines.
+To develop a dashboard with features include dropdowns, graphs, and data tables using Dash to interactively display the analysis results.
+To display summary statistics and additional analysis results on the dashboard.
